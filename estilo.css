@@ -1,8 +1,12 @@
 body {
 background-color: #FFCC66;
 
+background-image: url("sputnik.jpg");
 }
 h1 {
-color: #990000;
+color: #black;
 background-color: #FC9804;
+}
+li{
+  color: #000000;
 }
